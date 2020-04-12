@@ -1,0 +1,36 @@
+{
+  "name": "orange-limo-ritual",
+  "version": "1.0.0",
+  "description": "Orange Limo Ritual",
+  "main": "index.js",
+  "repository": "https://github.org/dreki/orange-limo-ritual",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Sean Gilbertson",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "grommet": "^2.11.0",
+    "grommet-icons": "^4.4.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "lodash": "^4.17.15",
+    "nanographql": "^2.0.0",
+    "next": "^9.2.2",
+    "poke-types": "^1.0.22",
+    "pokeapi-js-wrapper": "^1.1.2",
+    "pokedex-promise-v2": "^3.2.0",
+    "polished": "^3.4.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-google-font-loader": "^1.1.0",
+    "react-typography": "^0.16.19",
+    "styled-components": "^5.0.1",
+    "swr": "^0.1.17",
+    "trie-search": "^1.2.11",
+    "typography": "^0.16.19"
+  }
+}

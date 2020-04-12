@@ -1,5 +1,5 @@
 tasks:
-  - init: echo "Replace me with a build script for the project."
+  - init: yarn
     command: yarn dev
 image:
   file: .gitpod.Dockerfile
